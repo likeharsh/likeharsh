@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">I’m a final-year Computer Science student with a strong foundation in Data Structures and Algorithms (Java) and practical experience with the MERN stack (MongoDB, Express.js, React.js, Node.js). I have a growing interest in Data Science, particularly in applying data-driven solutions to real-world challenges.</h3>
 
-- 🔭 I’m currently working on [Loopster](https://github.com/likeharsh/Loopster)
+- 🔭 I’m currently working on [DishDrift]
 
 - 🌱 I’m currently learning **React, Mongo, Python**
 
